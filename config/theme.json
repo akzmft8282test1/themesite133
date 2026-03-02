@@ -4,7 +4,7 @@
   "description": "친애하는 이지영 선생님께, 늘 3반 기억하고 잊지말아주세요.",
   "android": {
     "label": "Android용 다운로드",
-    "downloadUrl": "https://example.com/android-theme.apk",
+    "downloadUrl": "https://akzmft8282test1.github.io/newsfeed/우리들의 3반, 영원히.apk",
     "note": "Android: 다운로드 후 적용 방법 안내를 확인하세요.",
     "applyGuide": {
       "title": "Android 적용 방법",
@@ -19,7 +19,7 @@
   },
   "ios": {
     "label": " iOS용 다운로드",
-    "downloadUrl": "https://example.com/ios-theme.mobileconfig",
+    "downloadUrl": "https://akzmft8282test1.github.io/newsfeed/우리들의 3반, 영원히.ktheme",
     "note": " iOS: 프로파일 설치/신뢰 절차가 필요할 수 있어요.",
     "applyGuide": {
       "title": " iOS 적용 방법",
