@@ -1,0 +1,36 @@
+{
+  "themeName": "Aqua Glass",
+  "subtitle": "Liquid Glass for KakaoTalk",
+  "description": "macOS 감성의 리퀴드 글라스(블러/투명/빛 번짐) 스타일 카카오톡 테마입니다. 아래 버튼에서 기기별로 다운로드할 수 있어요.",
+  "android": {
+    "label": "Android용 다운로드",
+    "downloadUrl": "https://example.com/android-theme.apk",
+    "note": "Android: 다운로드 후 적용 방법 안내를 확인하세요.",
+    "applyGuide": {
+      "title": "Android 적용 방법",
+      "steps": [
+        "버튼을 눌러 테마 파일을 다운로드합니다.",
+        "파일 앱(내 파일)에서 다운로드된 테마 파일을 실행합니다.",
+        "안내에 따라 테마 적용(설치/적용)을 완료합니다.",
+        "카카오톡을 재실행하면 적용된 테마를 확인할 수 있습니다."
+      ],
+      "footnote": "기기/런처/테마 적용 앱에 따라 단계가 조금 다를 수 있어요."
+    }
+  },
+  "ios": {
+    "label": "iOS용 다운로드",
+    "downloadUrl": "https://example.com/ios-theme.mobileconfig",
+    "note": "iOS: 프로파일 설치/신뢰 절차가 필요할 수 있어요.",
+    "applyGuide": {
+      "title": "iOS 적용 방법",
+      "steps": [
+        "버튼을 눌러 테마(프로파일) 파일을 다운로드합니다.",
+        "설정 앱 > 일반 > VPN 및 기기 관리(또는 프로파일)에서 다운로드된 프로파일을 확인합니다.",
+        "프로파일을 설치/허용한 뒤, 필요하면 기기 잠금 암호를 입력합니다.",
+        "카카오톡을 재실행하고, 테마가 적용되었는지 확인합니다."
+      ],
+      "footnote": "iOS는 보안 정책으로 ‘프로파일 설치’ 확인 절차가 표시될 수 있어요."
+    }
+  },
+  "footerNote": "※ 본 사이트는 테마 배포용 페이지이며, 카카오톡/카카오와 무관합니다."
+}
